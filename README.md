@@ -43,16 +43,5 @@ If you wish to contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
-## License
-
-Specify the license under which the project is distributed.
-
-## Acknowledgements
-
-- List any tools, libraries, or resources that have been helpful in building the project.
-  
----
-
-**Note**: Replace placeholders with actual information specific to your project.
 
 
